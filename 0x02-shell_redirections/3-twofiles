@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "3-twofiles/etc/passwd file..."
+cat /etc/passwd
+
+echo "3-twofiles/etc/hosts file..."
+cat /etc/hosts
+
